@@ -4,3 +4,9 @@
 body{
     background-color:#6DA37F ;
 }
+header{
+    background-color: blueviolet;
+}
+footer{
+    background-color: darkgreen;
+}
